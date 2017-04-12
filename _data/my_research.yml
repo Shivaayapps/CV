@@ -1,7 +1,9 @@
 # My research
 
 - name: Machine Learing
+  name-cn: 机器学习
   details: kNN, Decision tree, etc
 
 - name: Crawler
+  name-cn: 爬虫
   details: scrapy
