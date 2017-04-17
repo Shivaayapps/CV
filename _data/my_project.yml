@@ -3,27 +3,34 @@
 - name: IMGKit
   language: Python
   desc: IMGKit is a Python 2 and 3 library which wrapper wkhtmltoimage utility to convert HTML to image using Webkit, input can be URLs, HTML files and string.
+  desc-cn: IMGKit是一个Python库，使用wkhtmltoimage和webkit将网页转换成图片。输入参数可以是网址、HTML文件或者字符串。
 
 - name: Leetcode
   language: Python
   desc: I forked kamyu104's project and added some more solutions for LeetCode's algorithmic questions.
+  desc-cn: 我fork了kamyu104的项目，增加了LeetCode里面一些题目的其他算法解答。
 
 - name: Saplatform
   language: Python(Django), JS(jQuery)
   desc: Saplatform is a Django project, it manages servers with saltstack, it can deploy project automatic and not in maintenance now.
+  desc-cn: Saplatform是我自己写的运维平台，实现自动化运维的一些简单功能，目前已经不在维护。
 
 - name: Jalpc
   language: HTML, CSS, JS
   desc: Jalpc is my blog website. I built it with Jekyll on github and there are some API provided by Flask on Vultr. I made lots of friends through this repository.
+  desc-cn: Jalpc是我的个人博客，使用Jekyll和GitHub Pages实现，部分功能调用我在Vultr上使用Flask提供的API。
 
 - name: Jalpc-A
   language: HTML, CSS, JS (Angularjs)
   desc: Jalpc-A is another blog website, it's written by Angularjs, backhend is Leancloud I use API to store data, Leancloud like Parse in America.
+  desc-cn: Jalpc-A建立在GitHub Pages上，用AngularJS实现的SPA，后端使用Leancloud提供API。
 
 - name: Rsser
   language: HTML, CSS, JS (Ionic)
   desc: Rsser is a smart phone App written by Ionic, with this App I can subscribe Rss address and read content of them.
+  desc-cn: Rsser是用Ionic写的手机APP，使用这个APP可以实现订阅和查看新闻。
 
 - name: CV
   language: HTML, CSS
   desc: CV is my resume website.
+  desc-cn: CV是我的在线简历网站，使用CSS实现A4纸样式，方便打印。
