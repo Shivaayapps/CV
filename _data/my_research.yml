@@ -3,7 +3,7 @@
 - name: Machine Learing
   name-cn: 机器学习
   details: kNN, Decision tree, etc
-  details-cn: kNN, Decision tree, 等
+  details-cn: kNN, 决策树, 等
 
 - name: Crawler
   name-cn: 爬虫
