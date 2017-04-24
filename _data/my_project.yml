@@ -30,7 +30,7 @@
   desc: Rsser is a smart phone App written by Ionic, with this App I can subscribe Rss address and read content of them.
   desc-cn: Rsser是用Ionic写的手机APP，使用这个APP可以实现订阅和查看新闻。
 
-- name: CV
-  language: HTML, CSS
-  desc: CV is my resume website.
-  desc-cn: CV是我的在线简历网站，使用CSS实现A4纸样式，方便打印。
+- name: Z-Tool
+  language: HTML, CSS, Python(Flask)
+  desc: Z-Tool is a tool application project, we can use PC/WeChat to get information. Front end is written by VueJS/WeChat mini app framework, backend API is written by Flask.
+  desc-cn: Z-Tool是一个工具类应用项目，我们可以使用电脑/微信小程序查询有用的信息。前端是用VueJS/微信小程序框架实现，后台是通过Flask提供API。
