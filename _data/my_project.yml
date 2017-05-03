@@ -32,5 +32,5 @@
 
 - name: Z-Tool
   language: HTML, CSS, Python(Flask)
-  desc: Z-Tool is a tool application project, we can use PC/WeChat to get information. Front end is written by VueJS/WeChat mini app framework, backend API is written by Flask.
-  desc-cn: Z-Tool是一个工具类应用项目，我们可以使用电脑/微信小程序查询有用的信息。前端是用VueJS/微信小程序框架实现，后台是通过Flask提供API。
+  desc: Z-Tool is a tool application project, we can use PC/WeChat to get information. Front end is written by VueJS/WeChat mini app framework, backend API is written by Flask, use Docker and Fabric to deploy.
+  desc-cn: Z-Tool是一个工具类应用项目，我们可以使用电脑/微信小程序查询有用的信息。前端是用VueJS/微信小程序框架实现，后台是通过Flask提供API，使用Docker和Fabric来部署整个应用。
