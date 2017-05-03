@@ -21,12 +21,12 @@
   desc-cn: Jalpc是我的个人博客，使用Jekyll和GitHub Pages实现，部分功能调用我在Vultr上使用Flask提供的API。
 
 - name: Jalpc-A
-  language: HTML, CSS, JS (Angularjs)
+  language: HTML, CSS, JS(Angularjs)
   desc: Jalpc-A is another blog website, it's written by Angularjs, backhend is Leancloud I use API to store data, Leancloud like Parse in America.
   desc-cn: Jalpc-A建立在GitHub Pages上，用AngularJS实现的SPA，后端使用Leancloud提供API。
 
 - name: Rsser
-  language: HTML, CSS, JS (Ionic)
+  language: HTML, CSS, JS(Ionic)
   desc: Rsser is a smart phone App written by Ionic, with this App I can subscribe Rss address and read content of them.
   desc-cn: Rsser是用Ionic写的手机APP，使用这个APP可以实现订阅和查看新闻。
 
