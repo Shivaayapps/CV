@@ -5,15 +5,15 @@
   desc: IMGKit is a Python 2 and 3 library which wrapper wkhtmltoimage utility to convert HTML to image using Webkit, input can be URLs, HTML files and string.
   desc-cn: IMGKit是一个Python库，使用wkhtmltoimage和webkit将网页转换成图片。输入参数可以是网址、HTML文件或者字符串。
 
-# - name: Leetcode
-#   language: Python
-#   desc: I forked kamyu104's project and added some more solutions for LeetCode's algorithmic questions.
-#   desc-cn: 我fork了kamyu104的项目，增加了LeetCode里面一些题目的其他算法解答。
+- name: Leetcode
+  language: Python
+  desc: I added some solutions on kamyu104's project of Leetcode questions.
+  desc-cn: 我fork了kamyu104的项目，增加了LeetCode里面一些题目的其他算法解答。
 
 - name: Saplatform
   language: Python(Django), JS(jQuery)
-  desc: Saplatform is a Django project, it manages servers with saltstack, it can deploy project automatic and not in maintenance now.
-  desc-cn: Saplatform是我自己写的运维平台，实现自动化运维的一些简单功能，目前已经不在维护。
+  desc: Saplatform is a Django project, it manages servers with saltstack and can deploy projects automatic.
+  desc-cn: Saplatform是用Django实现的的运维平台，使用它可以自动部署项目，目前已经不在维护。
 
 - name: Jalpc
   language: HTML, CSS, JS
