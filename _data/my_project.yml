@@ -5,10 +5,10 @@
   desc: IMGKit is a Python 2 and 3 library which wrapper wkhtmltoimage utility to convert HTML to image using Webkit, input can be URLs, HTML files and string.
   desc-cn: IMGKit是一个Python库，使用wkhtmltoimage和webkit将网页转换成图片。输入参数可以是网址、HTML文件或者字符串。
 
-- name: Leetcode
-  language: Python
-  desc: I added some solutions on kamyu104's project of Leetcode questions.
-  desc-cn: 我fork了kamyu104的项目，增加了LeetCode里面一些题目的其他算法解答。
+# - name: Leetcode
+#   language: Python
+#   desc: I added some solutions on kamyu104's project of Leetcode questions.
+#   desc-cn: 我fork了kamyu104的项目，增加了LeetCode里面一些题目的其他算法解答。
 
 - name: Saplatform
   language: Python(Django), JS(jQuery)
