@@ -158,6 +158,30 @@ permalink: /
     </article>
   </section>
 
+  <section class="sheet padding-20mm">
+    <article>
+
+      <div id="language" style="display: inline-block;width: 100%;">
+        <i class="fa fa-graduation-cap fa-lg"></i> <p class="item">Training</p>
+        <hr>
+        {% for training in site.data.my_training %}
+        <div style="height: 21mm;">
+        <div style="float: left;height: 21mm;width: 78%;">
+          <span class="arial-black">{{ training.topic }}</span>
+          <span class="trebuchet">{{ training.site }}</span>
+          <br>
+          <span class="arial-rounded">Description:</span><span class="arial">{{ training.desc }}</span>
+          <br>
+          <span class="arial-rounded">Key words:</span><span class="arial">{{ training.key_words }}</span>
+        </div>
+        <p class="edu-fromto">{{ training.fromto }}</p>
+        </div>
+        {% endfor %}
+      </div>
+
+    </article>
+  </section>
+
   <!-- if two pages are not enough for you, please cut/paste some sections to this page
   <section class="sheet padding-20mm">
     <article>

@@ -8,12 +8,12 @@
 - name: Leetcode
   language: Python
   desc: I forked kamyu104's project and added some more solutions for LeetCode's algorithmic questions.
-  desc-cn: 我fork了kamyu104的项目，增加了LeetCode里面一些题目的其他算法解答。
+  desc-cn: 我从kamyu104账号下fork Leetcode这个项目，学习其中的算法题并对一些问题添加更为优秀的解答。
 
 - name: Saplatform
   language: Python(Django), JS(jQuery)
   desc: Saplatform is a Django project, it manages servers with saltstack, it can deploy project automatic and not in maintenance now.
-  desc-cn: Saplatform是我自己写的运维平台，实现自动化运维的一些简单功能，目前已经不在维护。
+  desc-cn: Saplatform是我结合公司工作后自己写的运维平台，实现自动化运维的一些简单功能，目前已经不在维护。
 
 - name: Jalpc
   language: HTML, CSS, JS
@@ -22,13 +22,13 @@
 
 - name: Jalpc-A
   language: HTML, CSS, JS (Angularjs)
-  desc: Jalpc-A is another blog website, it's written by Angularjs, backhend is Leancloud I use API to store data, Leancloud like Parse in America.
-  desc-cn: Jalpc-A建立在GitHub Pages上，用AngularJS实现的SPA，后端使用Leancloud提供API。
+  desc: Jalpc-A is another blog website, it's written by Angularjs, backhend is Leancloud I use API to store data, Leancloud like Parse/Firebase in America.
+  desc-cn: Jalpc-A网站建立在GitHub Pages上，用AngularJS框架实现的SPA，后端数据使用Leancloud提供API，Leancloud类似国外的Parse/Firebase。
 
 - name: Rsser
   language: HTML, CSS, JS (Ionic)
   desc: Rsser is a smart phone App written by Ionic, with this App I can subscribe Rss address and read content of them.
-  desc-cn: Rsser是用Ionic写的手机APP，使用这个APP可以实现订阅和查看新闻。
+  desc-cn: Rsser是用AngularJS的Ionic框架写的手机APP，使用这个APP可以实现订阅和查看rss订阅地址。
 
 - name: Z-Tool
   language: HTML, CSS, Python(Flask)
