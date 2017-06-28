@@ -4,8 +4,8 @@ first_name: 'Kun'
 first_name-cn: 坤
 last_name: 'Jia'
 last_name-cn: '贾'
-job_title: 'Full stack developer (Python)'
-job_title-cn: '全栈工程师 (Python)'
+job_title: 'Python developer'
+job_title-cn: 'Python工程师'
 age: 28
 gender: 'Male'
 gender-cn: '男'
