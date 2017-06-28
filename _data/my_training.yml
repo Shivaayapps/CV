@@ -5,6 +5,6 @@
   fromto: 2017-5
   site: WuXiNextCODE Iceland
   site-cn: 明码冰岛分部
-  key_words: devops, ansible, chef, cloud
-  desc: Devops training
-  desc-cn: Devops培训
+  key_words: devops, cloud, CI, ansible, prometheus
+  desc: Devops training, include continuous integration, monitor system, workflow etc.
+  desc-cn: Devops培训，主要包括持续集成、监控系统和IT工作流等。
