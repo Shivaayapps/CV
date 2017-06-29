@@ -17,8 +17,8 @@
   location-cn: 中国，上海
   title: Devops
   title-cn: 运维开发
-  fromto: 2015-6 ~ 2016-2
-  fromto-cn: 2015-6 ~ 2016-2
+  fromto: 2015-6 ~ 2016-1
+  fromto-cn: 2015-6 ~ 2016-1
   desc: Netease is a very big game company in China, my department is cooperation department of Blizzard Entertainment, my colleagues and I built automatization systems with Python/Django/jQuery to realize managing servers for ops team.
   desc-cn: 在网易游戏暴雪合作部任职期间，我参与自动化发布系统开发，系统实现管理多台服务器资源，自动化发布、回滚APP和网站项目，极大减少人工失误，系统使用Django实现。在网易魔兽争霸平台项目中参与系统构建，使用saltstack实现批量管理服务器和代码发布。
 
